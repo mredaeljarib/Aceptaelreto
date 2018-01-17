@@ -1,4 +1,4 @@
-package os;
+package OrganizandoLosHangares;
 
 import java.util.Scanner;
 
